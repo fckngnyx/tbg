@@ -1,7 +1,6 @@
 # gemini pro api free keys, get it from https://ai.google.dev/
 gemini_keys = [
-    'xxxxxxxxxxxx',
-    'yyyyyyyyyyyyy',
+    'AIzaSyA6ALs8i9uAkZVNTi9CTjGvxSrC64yw7jg'
     ]
 
 # gemini pro api proxies, if not set it will use direct connection
@@ -12,7 +11,7 @@ gemini_proxies = [
 ]
 
 # telegram bot token, get in here @BotFather
-token = 'xxx'
+token = '6854560828:AAFTh0se0dLRlLNf_CaNGqPsEwM7Sb3MQAA'
 
 # Autorized users, if empty - allow all
 users = [
@@ -21,7 +20,7 @@ users = [
     ]
 
 # bot name to access it in group
-bot_name = 'bot'
+bot_name = 'MultiverseAI_bot'
 
 # show tts button in answers
 tts_button = True
